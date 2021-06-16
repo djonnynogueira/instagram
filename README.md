@@ -2,5 +2,6 @@
 
 Conceitos abordados:
 
+- HTML básico
 - CSS utilizando Flexbox
 
